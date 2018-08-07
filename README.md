@@ -11,9 +11,9 @@ TODO: Fill out
 ### Repository layout
 This section describes the layout of the repository
 
-fixtures/ - Test fixtures and fixture loader
-comms/ - Communication modules
-test/ - Unit tests
+`fixtures/` - Test fixtures and fixture loader
+`comms/` - Communication modules
+`test/` - Unit tests
 
 
 #### Running Tests
