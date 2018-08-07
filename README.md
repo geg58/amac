@@ -12,7 +12,9 @@ TODO: Fill out
 This section describes the layout of the repository
 
 `fixtures/` - Test fixtures and fixture loader
+
 `comms/` - Communication modules
+
 `test/` - Unit tests
 
 
