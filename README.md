@@ -2,6 +2,8 @@
 
 AMAC (Autonomous Motion @ Cal) is a project to develop and deploy an autonomous 1/8th scale car to navigate the UC Berkeley campus.
 
+# DEPRICATED - PLEASE VISIT: https://github.com/AMABerkeley/
+
 ### Installation
 
 TODO: Fill out
